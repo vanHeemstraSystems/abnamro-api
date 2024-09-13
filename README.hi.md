@@ -1,12 +1,14 @@
-abnamro-api
+अब्नामरो-एपीआई
 
-# एबीएन एमरो एपीआई
+# ABN Amro API
+
+> एबीएन एमरो खाते से जानकारी प्राप्त करें, जैसे: लेनदेन, शेष राशि और खाताधारक का नाम।
 
 "एबीएन एमरो एपीआई: खाता जानकारी" पर आधारित<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
