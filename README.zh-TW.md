@@ -1,8 +1,8 @@
-儲存庫名稱
+Abnamro-API
 
-# 儲存庫名稱
+# 荷蘭銀行API
 
-基於“ABC”<https://www.abc.com/>
+基於“ABN Amro API：帳戶資訊”，網址為<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100 - 簡介
 
@@ -12,7 +12,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
