@@ -6,6 +6,8 @@ abnamro-api
 
 استنادًا إلى "ABN Amro API: معلومات الحساب" على الموقع<https://developer.abnamro.com/api-products/account-information-psd2>
 
+بناء على "Banktivity" في<https://www.banktivity.com/>
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
