@@ -1,6 +1,8 @@
 abnamro-api
 # ABN Amro API
 
+> Retrieve information from an ABN AMRO account, such as: transactions, balance, and name of the account holder.
+
 Based on "ABN Amro API: Account Information" at https://developer.abnamro.com/api-products/account-information-psd2
 
 ## 100 - Introduction
