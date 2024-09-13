@@ -6,17 +6,19 @@ Abnamro-API
 
 基于“ABN Amro API：账户信息”，网址为<https://developer.abnamro.com/api-products/account-information-psd2>
 
-## 100 - Introduction
+Based on "Banktivity" at <https://www.banktivity.com/>
+
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 结论
 
