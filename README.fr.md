@@ -1,8 +1,8 @@
-nom du référentiel
+abnamro-api
 
-# Nom du référentiel
+# API ABN-Amro
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur « API ABN Amro : informations sur le compte » sur<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100 - Introduction
 
