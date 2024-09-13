@@ -5,6 +5,8 @@ abnamro-api
 
 Based on "ABN Amro API: Account Information" at https://developer.abnamro.com/api-products/account-information-psd2
 
+Based on "Banktivity" at https://www.banktivity.com/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
