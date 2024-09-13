@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+abnamro-api
+# ABN Amro API
 
-Based on "ABC" at https://www.abc.com/
+Based on "ABN Amro API: Account Information" at https://developer.abnamro.com/api-products/account-information-psd2
 
 ## 100 - Introduction
 
