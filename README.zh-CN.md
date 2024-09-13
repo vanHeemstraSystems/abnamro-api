@@ -2,6 +2,8 @@ Abnamro-API
 
 # 荷兰银行API
 
+> Retrieve information from an ABN AMRO account, such as: transactions, balance, and name of the account holder.
+
 基于“ABN Amro API：账户信息”，网址为<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100 - 简介
