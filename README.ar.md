@@ -2,6 +2,8 @@ abnamro-api
 
 # ايه بي ان امرو API
 
+> استرجاع المعلومات من حساب ABN AMRO، مثل: المعاملات والرصيد واسم صاحب الحساب.
+
 استنادًا إلى "ABN Amro API: معلومات الحساب" على الموقع<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100- مقدمة
