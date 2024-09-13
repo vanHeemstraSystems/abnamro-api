@@ -1,8 +1,8 @@
-اسم المستودع
+abnamro-api
 
-# اسم المستودع
+# ايه بي ان امرو API
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادًا إلى "ABN Amro API: معلومات الحساب" على الموقع<https://developer.abnamro.com/api-products/account-information-psd2>
 
 ## 100- مقدمة
 
